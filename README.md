@@ -5,3 +5,12 @@
 # 翻译书籍
 
 * [Effective Rust](/effective-rust-zh)
+
+# 学习资源
+
+[好书收集](https://github.com/holmofy/programmer-book)
+
+**java**: [javaalmanac](https://javaalmanac.io/)
+
+
+
