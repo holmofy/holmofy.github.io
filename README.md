@@ -10,7 +10,7 @@
 
 [好书收集](https://github.com/holmofy/programmer-book)
 
-**java**: [javaalmanac](https://javaalmanac.io/)
-**rust**: [rust cheat sheet](https://cheats.rs/)
+- **java**: [javaalmanac](https://javaalmanac.io/)
+- **rust**: [rust cheat sheet](https://cheats.rs/)
 
 
